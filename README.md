@@ -1,4 +1,5 @@
 # PupperCoin ICO / Advanced Solidity
+![bitICO](https://dashnews.org/wp-content/uploads/2018/07/bitcoin-ico.jpg)
 
 ## What is an ICO?
 An ICO, or Initial Coin Offering, is the Blockchain equivilant of offering stock in a certain service or product. ERC20 tokens are custom made versions of these tokens, which are created on the EVM, Ethereum Virtual Machine.
